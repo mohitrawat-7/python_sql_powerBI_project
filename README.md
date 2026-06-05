@@ -74,6 +74,9 @@ Power BI was connected directly to the MySQL database to pull the analysed data 
 - **Shipping preference** analysis (Express vs Standard spend)
 - Customer loyalty segmentation based on purchase history
 
+## Dashboard Preview:
+![](https://github.com/mohitrawat-7/python_sql_powerBI_project/blob/main/dashboard%20cutomer%20purchase%20data.png)
+
 ---
 
 ## Key Insights
