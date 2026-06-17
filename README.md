@@ -4,6 +4,11 @@ An end-to-end data analytics project that walks through the complete analytics p
 
 ---
 
+## Dashboard Preview:
+![](https://github.com/mohitrawat-7/python_sql_powerBI_project/blob/main/dashboard%20cutomer%20purchase%20data.png)
+
+---
+
 ## Project Overview
 
 This project analyses customer shopping behaviour to uncover patterns around revenue, product preferences, discount usage, subscription status, and demographic segmentation. The workflow follows a three-stage pipeline:
@@ -73,9 +78,6 @@ Power BI was connected directly to the MySQL database to pull the analysed data 
 - **Subscription vs non-subscription** customer comparison (count, average spend, total revenue)
 - **Shipping preference** analysis (Express vs Standard spend)
 - Customer loyalty segmentation based on purchase history
-
-## Dashboard Preview:
-![](https://github.com/mohitrawat-7/python_sql_powerBI_project/blob/main/dashboard%20cutomer%20purchase%20data.png)
 
 ---
 
